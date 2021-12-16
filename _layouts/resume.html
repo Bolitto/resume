@@ -27,6 +27,27 @@ layout: default
         </div>
       </header>
 
+      <section id="experience">
+        <div class="section-title">
+          Experiência Profissional
+        </div>
+        <div class="section-content">
+          {% for exp in site.data.resume.experience %}
+          <div class="block">
+            <div class="block-title">
+              {{ exp.title }}
+            </div>
+            <div class="block-subtitle">
+              {{ exp.duration }} | {{ exp.company }}
+            </div>
+            <div class="block-content">
+              {{ exp.description }}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+        
       <section id="education">
         <div class="section-title">
           Educação
@@ -50,7 +71,7 @@ layout: default
 
       <section id="skills">
         <div class="section-title">
-          Skills
+          Voluntariado
         </div>
         <div class="section-content">
           {% for skill in site.data.resume.skills %}
@@ -60,27 +81,6 @@ layout: default
             </div>
             <div class="block-content">
               {{ skill.items }}
-            </div>
-          </div>
-          {% endfor %}
-        </div>
-      </section>
-
-      <section id="experience">
-        <div class="section-title">
-          Experiência Profissional
-        </div>
-        <div class="section-content">
-          {% for exp in site.data.resume.experience %}
-          <div class="block">
-            <div class="block-title">
-              {{ exp.title }}
-            </div>
-            <div class="block-subtitle">
-              {{ exp.duration }} | {{ exp.company }}
-            </div>
-            <div class="block-content">
-              {{ exp.description }}
             </div>
           </div>
           {% endfor %}
