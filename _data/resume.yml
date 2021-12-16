@@ -41,18 +41,14 @@ skills:
   - title: Skill Group 3
     items: Sed do, Eiusmod, Tempor, Incididunt
 experience:
-  - title: Job Title 1
-    duration: Apr 2016 - Now
-    company: Your 1st, Inc.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: Job Title 2
-    duration: Apr 2013 - Mar 2016
-    company: Your 2nd, Inc.
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - title: Job Title 3
-    duration: Dec 2011 - Mar 2012
-    company: Your 3rd Co, Ltd.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title: Assistente Administrativo
+    duration: 2017 - 2021
+    company: Proguaru | Progresso e Desenvolvimento de Guarulhos S. A.
+    description: Criação de Planilhas, Gráficos, Relatórios e Dashboards em Tableau e Excel na Supervisão de Planejamento de Edificações.
+  - title: Estagiário de Engenharia Química
+    duration: 2017-2017
+    company: Centro Paula Souza
+    description: Acompanhamento das aulas, auxílio aos alunos nos trabalhos de conclusão de curso, manutenção do laboratório de química (elaboração do inventário de reagentes visando preparação para auditoria periódica do CRQ, orçamentos e cotações de reagentes e equipamentos).
 projects:
   - name: Project Name 1
     description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
