@@ -43,13 +43,13 @@ experience:
     description: Auxílio aos professores nas aulas práticas realizadas no laboratório, acompanhamento dos trabalhos de conclusão de curso dos estudantes do curso técnico, manutenção do laboratório de química (elaboração do inventário de reagentes visando preparação para auditoria periódica do CRQ, orçamentos e cotações de reagentes e equipamentos).
 projects:
   - name: Momentum
-    description: Jogo educacional para aprendizagem de conceitos de mecânica clássica.
+    description: Desenvolvimento de jogo educacional para aprendizagem de conceitos de mecânica clássica.
     contribution: 2020  
   - name: AVA no Cursinho Comunitário A-Sol
     description: Desenvolvimento de um Ambiente Virtual de Aprendizagem no Cursinho Comunitário A-Sol, para o funcionamento do cursinho no período da pandemia de covid-19.
     contribution: 2020 - 2021
   - name: Pseudociência
-    description: Jogo sério na temática de critérios de demarcação (História e Filosofia da Ciência).
+    description: Desenvolvimento de jogo educacional na temática de critérios de demarcação (História e Filosofia da Ciência).
     contribution: 2019  
 volu:
   - name: Cursinho Comunitário A-Sol
