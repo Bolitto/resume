@@ -38,9 +38,9 @@ experience:
     company: Proguaru - Progresso e Desenvolvimento de Guarulhos S. A.
     description: Criação de Planilhas, Gráficos, Relatórios e Dashboards em Tableau e Excel na Supervisão de Planejamento de Edificações.
   - title: Estagiário de Engenharia Química
-    duration: 2017-2017
+    duration: 2017   
     company: CPS - Centro Paula Souza
-    description: Acompanhamento das aulas, auxílio aos alunos nos trabalhos de conclusão de curso, manutenção do laboratório de química (elaboração do inventário de reagentes visando preparação para auditoria periódica do CRQ, orçamentos e cotações de reagentes e equipamentos).
+    description: Auxílio aos professores nas aulas práticas realizadas no laboratório, acompanhamento dos trabalhos de conclusão de curso dos estudantes do curso técnico, manutenção do laboratório de química (elaboração do inventário de reagentes visando preparação para auditoria periódica do CRQ, orçamentos e cotações de reagentes e equipamentos).
 projects:
   - name: Momentum
     description: Jogo educacional para aprendizagem de conceitos de mecânica clássica.
