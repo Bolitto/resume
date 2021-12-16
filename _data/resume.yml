@@ -1,11 +1,11 @@
 title: Résumé
-name: YOUR NAME
+name: Walter Rubens Bolitto Carvalho
 jobtitle: Your Job Title
 contact:
   - icon: fa-envelope
-    text: youremail@example.com
+    text: bolitto.walter@gmail.com
   - icon: fa-phone-square
-    text: your-phone-num
+    text: (11)954361794
   - icon: fa-globe
     text: your-website.com
     link: https://crispgm.github.io/resume/resume.html
@@ -13,14 +13,26 @@ contact:
     text: your-github
     link: https://github.com/crispgm/resume
 education:
-  - university: Your First University
-    duration: Jul 2011 - Dec 2012
-    location: Consectetur adipiscing elit
-    major: Lorem ipsum dolor sit amet
-  - university: Your Second University
-    duration: Aug 2007 - Jun 2011
-    location: Ut enim ad minim veniam
-    major: Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+  - university: Mestrado em Ciência da Computação, UFABC | Universidade Federal do ABC
+    duration: 2021 - Atual
+    location: 
+    major: Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC) e do projeto Diversão Séria (UFABC). Projeto de pesquisa voltado ao desenvolvimento de tecnologias assistivas como prática pedagógica na Pedagogia de Projetos
+  - university: Licenciatura em Física, IFSP | Instituto Federal de São Paulo
+    duration: 2020 - Atual
+    location: 
+    major: 
+  - university: Complementação Pedagógica em Química, UNICSUL | Universidade Cruzeiro do Sul
+    duration: 2020 - 2021
+    location: 
+    major: 
+  - university: Pós-graduação lato sensu em Educação e Tecnologia, UFSCar | Universidade Federal de São Carlos
+    duration: 2019 - 2020
+    location: 
+    major: Habilitação em Produção e uso de Tecnologias para Educação. Trabalho de Conclusão de Curso: Ambiente Virtual em um Cursinho Popular.
+  - university: Graduação em Engenharia Química, UNG | Universidade Guarulhos
+    duration: 2014 - 2018
+    location: 
+    major: Atuação no Núcleo de Sustentabilidade em Resíduos, nos seguintes projetos: Desenvolvimento de pesquisa científica na área de mapeamento colaborativo; Apresentações de palestras e treinamentos de gestão de resíduos.
 skills:
   - title: Skill Group 1
     items: Lorem, Ipsum, Dolor, Sit, Amet
