@@ -57,6 +57,10 @@ projects:
   - name: Pseudociência
     description: Jogo sério na temática de critérios de demarcação (História e Filosofia da Ciência).
     contribution: 2019  
+volu:
+  - name: Cursinho Comunitário A-Sol
+    description: AAAAAAAAAAAAAAA
+    contribution: 2020 - Atual 
 languages:
   - name: Português
     proficiency: Nativo
