@@ -13,7 +13,7 @@ contact:
     text: your-github
     link: https://github.com/crispgm/resume
 education:
-  - university: Mestrado em Ciência da Computação, UFABC | Universidade Federal do ABC
+  - university: Mestrado em Ciência da Computação, UFABC - Universidade Federal do ABC
     duration: 2021 - Atual
     location: 
     major: Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC) e do projeto Diversão Séria (UFABC). Projeto de pesquisa voltado ao desenvolvimento de tecnologias assistivas como prática pedagógica na Pedagogia de Projetos
@@ -21,15 +21,15 @@ education:
     duration: 2020 - Atual
     location: 
     major: 
-  - university: Complementação Pedagógica em Química, UNICSUL | Universidade Cruzeiro do Sul
+  - university: Complementação Pedagógica em Química, UNICSUL - Universidade Cruzeiro do Sul
     duration: 2020 - 2021
     location: 
     major: 
-  - university: Pós-graduação lato sensu em Educação e Tecnologia, UFSCar | Universidade Federal de São Carlos
+  - university: Pós-graduação lato sensu em Educação e Tecnologia, UFSCar - Universidade Federal de São Carlos
     duration: 2019 - 2020
     location: 
     major: Habilitação em Produção e uso de Tecnologias para Educação. Trabalho de Conclusão de Curso voltado ao desenvolvimento de um Ambiente Virtual em um Cursinho Popular.
-  - university: Graduação em Engenharia Química, UNG | Universidade Guarulhos
+  - university: Graduação em Engenharia Química, UNG - Universidade Guarulhos
     duration: 2014 - 2018
     location: 
     major: Atuação no Núcleo de Sustentabilidade em Resíduos. Atuação nos projetos - Desenvolvimento de pesquisa científica na área de mapeamento colaborativo; Apresentações de palestras e treinamentos de gestão de resíduos.
@@ -43,21 +43,24 @@ skills:
 experience:
   - title: Assistente Administrativo
     duration: 2017 - 2021
-    company: Proguaru | Progresso e Desenvolvimento de Guarulhos S. A.
+    company: Proguaru - Progresso e Desenvolvimento de Guarulhos S. A.
     description: Criação de Planilhas, Gráficos, Relatórios e Dashboards em Tableau e Excel na Supervisão de Planejamento de Edificações.
   - title: Estagiário de Engenharia Química
     duration: 2017-2017
-    company: Centro Paula Souza
+    company: CPS - Centro Paula Souza
     description: Acompanhamento das aulas, auxílio aos alunos nos trabalhos de conclusão de curso, manutenção do laboratório de química (elaboração do inventário de reagentes visando preparação para auditoria periódica do CRQ, orçamentos e cotações de reagentes e equipamentos).
 projects:
-  - name: Project Name 1
-    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Contributor.
-  - name: Project Name 2
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Creator and maintainer.
+  - name: Momentum
+    description: Jogo educacional para aprendizagem de conceitos de mecânica clássica.
+    contribution: 2020  
+  - name: AVA no Cursinho Comunitário A-Sol
+    description: Desenvolvimento de um Ambiente Virtual de Aprendizagem no Cursinho Comunitário A-Sol, para o funcionamento do cursinho no período da pandemia de covid-19.
+    contribution: 2020 - 2021
+  - name: Pseudociência
+    description: Jogo sério na temática de critérios de demarcação (História e Filosofia da Ciência).
+    contribution: 2019  
 languages:
-  - name: English
-    proficiency: Work proficiency
-  - name: Mandarin Chinese
-    proficiency: Native
+  - name: Português
+    proficiency: Nativo
+  - name: Inglês
+    proficiency: Fluente
