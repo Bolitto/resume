@@ -1,6 +1,6 @@
 title: Résumé
 name: Walter Rubens Bolitto Carvalho
-jobtitle: Profissional criativo, com habilidades interpessoais e organizacionais. Experiência no desenvolvimento e uso tecnologias educacionais como prática no ensino de ciências na educação formal e não-formal.
+jobtitle: 
 contact:
   - icon: fa-envelope
     text: bolitto.walter @gmail.com
@@ -8,6 +8,16 @@ contact:
     text: (11)954361794
   - icon: fa-globe
     text: Guarulhos, São Paulo 
+projects:
+  - name: Momentum
+    description: Desenvolvimento de jogo educacional para aprendizagem de conceitos de mecânica clássica.
+    contribution: 2020  
+  - name: AVA no Cursinho Comunitário A-Sol
+    description: Desenvolvimento de um Ambiente Virtual de Aprendizagem no Cursinho Comunitário A-Sol, para o funcionamento do cursinho no período da pandemia de covid-19.
+    contribution: 2020 - 2021
+  - name: Pseudociência
+    description: Desenvolvimento de jogo educacional na temática de critérios de demarcação (História e Filosofia da Ciência).
+    contribution: 2019  
 education:
   - university: Mestrado em Ciência da Computação
     duration: 2021 - Atual
@@ -17,13 +27,13 @@ education:
     duration: 2019 - 2020
     location: UFSCar - Universidade Federal de São Carlos
     major: Habilitação em Produção e uso de Tecnologias para Educação. Trabalho de Conclusão de Curso voltado ao desenvolvimento de um Ambiente Virtual em um Cursinho Popular. 
+  - university: Formação Pedagógica em Química
+    duration: 2020 - 2021
+    location: Universidade Cruzeiro do Sul
+    major: 
   - university: Licenciatura em Física
     duration: 2020 - Atual
     location: IFSP - Instituto Federal de São Paulo
-    major: 
-  - university: Complementação Pedagógica em Química
-    duration: 2020 - 2021
-    location: UNICSUL - Universidade Cruzeiro do Sul
     major: 
   - university: Graduação em Engenharia Química
     duration: 2014 - 2018
@@ -35,6 +45,14 @@ skills:
   - title: Desenho de Cursos - Introdução ao Modelo ADDIE (2019)
     items: Escola Nacional de Administração Pública, ENAP.
 experience:
+  - title: Professor da Educação Básica II
+    duration: 2022 - Atual
+    company: Secretaria da Educação do Estado de São Paulo
+    description: Ministrando aulas de química do ensino médio em escolas estaduais de Guarulhos.
+  - title: Educador
+    duration: 2020 - Atual
+    company: Cursinho Comunitário A-Sol
+    description: Professor de Química (2020 - ). Gerenciamento do Ambiente Virtual de Aprendizagem (AVA) (2020 - 2021)
   - title: Assistente Administrativo
     duration: 2017 - 2021
     company: Proguaru - Progresso e Desenvolvimento de Guarulhos S. A.
@@ -43,20 +61,13 @@ experience:
     duration: 2017   
     company: CPS - Centro Paula Souza
     description: Estágio de Engenharia Química no Laboratório Multidisciplinar de Ciências, onde foi realizado o auxílio aos professores nas aulas práticas realizadas no laboratório, acompanhamento dos trabalhos de conclusão de curso dos estudantes do curso técnico e manutenção (elaboração do inventário de reagentes visando preparação para auditoria periódica do CRQ, orçamentos e cotações de reagentes e equipamentos).
-projects:
-  - name: Momentum
-    description: Desenvolvimento de jogo educacional para aprendizagem de conceitos de mecânica clássica.
-    contribution: 2020  
-  - name: AVA no Cursinho Comunitário A-Sol
-    description: Desenvolvimento de um Ambiente Virtual de Aprendizagem no Cursinho Comunitário A-Sol, para o funcionamento do cursinho no período da pandemia de covid-19.
-    contribution: 2020 - 2021
-  - name: Pseudociência
-    description: Desenvolvimento de jogo educacional na temática de critérios de demarcação (História e Filosofia da Ciência).
-    contribution: 2019  
-volu:
-  - name: Cursinho Comunitário A-Sol
-    description: Atuação como Professor de Química (2020 - Atual) e Matemática (2021); Desenvolvimento e coordenação do Ambiente Virtual de Aprendizagem (AVA) (2020 - 2021)
-    contribution: 2020 - Atual 
+Publicações:
+  - name: Artigos em congresso científico
+    description: CARVALHO, Walter R. B.; RODRIGUEZ, Carla L.; ROCHA, Rafaela V. Audiojogos educacionais: um Mapeamento Sistemático da Literatura. In: Anais do XXXII Simpósio Brasileiro de Informática na Educação. SBC, 2021. p. 371-380.
+
+CARVALHO, Walter et al. Software Livre Twine: ensino de programação Web por meio da criação de jogos educacionais. In: Anais dos Workshops do Congresso Brasileiro de Informática na Educação. 2019. p. 258-267.
+    
+    contribution: 
 languages:
   - name: Português
     proficiency: Nativo
