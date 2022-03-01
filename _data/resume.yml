@@ -61,13 +61,11 @@ experience:
     duration: 2017   
     company: CPS - Centro Paula Souza
     description: Estágio de Engenharia Química no Laboratório Multidisciplinar de Ciências, onde foi realizado o auxílio aos professores nas aulas práticas realizadas no laboratório, acompanhamento dos trabalhos de conclusão de curso dos estudantes do curso técnico e manutenção (elaboração do inventário de reagentes visando preparação para auditoria periódica do CRQ, orçamentos e cotações de reagentes e equipamentos).
-Publicações:
+volu:
   - name: Artigos em congresso científico
     description: CARVALHO, Walter R. B.; RODRIGUEZ, Carla L.; ROCHA, Rafaela V. Audiojogos educacionais: um Mapeamento Sistemático da Literatura. In: Anais do XXXII Simpósio Brasileiro de Informática na Educação. SBC, 2021. p. 371-380.
-
-CARVALHO, Walter et al. Software Livre Twine: ensino de programação Web por meio da criação de jogos educacionais. In: Anais dos Workshops do Congresso Brasileiro de Informática na Educação. 2019. p. 258-267.
-    
-    contribution: 
+  - name: Artigos em congresso científico
+    description: CARVALHO, Walter et al. Software Livre Twine: ensino de programação Web por meio da criação de jogos educacionais. In: Anais dos Workshops do Congresso Brasileiro de Informática na Educação. 2019. p. 258-267.
 languages:
   - name: Português
     proficiency: Nativo
